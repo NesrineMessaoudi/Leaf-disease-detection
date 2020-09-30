@@ -1,2 +1,2 @@
 # Leaf-disease-detection
-Developpement d'une application intelligente pour la detection des maladies des plantes 
+Development of an intelligent application for the detection of plant diseases
